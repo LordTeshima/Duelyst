@@ -11,7 +11,7 @@
     "lodash.debounce": "^4.0.6",
     "minimist": "^1.1.2",
     "node-uuid": "*",
-    "open": "0.0.5",
+    "open": "6.0.0",
     "os-name": "^2.0.1"
   },
   "devDependencies": {
